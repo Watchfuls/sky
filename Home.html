@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+  <title>SKY</title>
+
+  <!-- css import -->
+  <link href="style.css" type="text/css" rel="stylesheet" />
+
+  <!-- javascript import -->
+  <script src="javascript.js"></script>
+
+  <html manifest="cashe.appcache">
+
+  </html>
+
+</head>
+
+<body>
+
+  <div id="Main">
+    <div id="Header">
+      <div class="SiderbarLogo">
+        <img src="Logo.png" alt="Logo" id="Logo" width="100%">
+      </div>
+      <div id="TitleBar">
+        <p>Title Bar</p>
+      </div>
+      <div id="Navbar">
+        <p>Moodslider | <a href=Upload.html>Upload Content</a></p>
+      </div>
+    </div>
+
+    <table style="width:100%">
+      <tr>
+        <td>Agitated</td>
+        <td>
+          <input type="range" id="Speed" value="50" max ="99">
+        </td>
+        <td>Calm</td>
+      </tr>
+      <tr>
+        <td>Happy</td>
+        <td>
+          <input type="range" id="Positivity" value="50" max ="99">
+        </td>
+        <td>Sad</td>
+      </tr>
+      <tr>
+        <td>Tired</td>
+        <td>
+          <input type="range" id="Intensity" value="50" max ="99">
+        </td>
+        <td>Wide Awake</td>
+      </tr>
+      <tr>
+        <td>Scared</td>
+        <td>
+          <input type="range" id="Courage" value="50" max ="99">
+        </td>
+        <td>Fearless</td>
+      </tr>
+    </table>
+
+    <table id="table" table style="width:100%">
+    </table>
+  </div>
+
+</body>
+
+</html>

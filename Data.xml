@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programmedata>
+<title>Programme Data</title>
+<programme id="1">
+<programme1>
+<name>A nightmare on Elm Street</name>
+<imagepath>Images/NoESScared.jpg</imagepath>
+<mood>Scared</mood>
+</programme1>
+</programme>
+<programme id="2">
+<programme2>
+<name>School of Rock</name>
+<imagepath>Images/SoRHappy.jpg</imagepath>
+<mood>Happy</mood>
+</programme2>
+</programme>
+<programme id="3">
+<programme3>
+<name>First Blood</name>
+<imagepath>Images/FBWideAwake.jpg</imagepath>
+<mood>Wide Awake</mood>
+</programme3>
+</programme>
+<programme id="4">
+<programme4>
+<name>Avatar</name>
+<imagepath>Images/AFearless.jpg</imagepath>
+<mood>Fearless</mood>
+</programme4>
+</programme>
+<programme id="5">
+<programme5>
+<name>Blue Planet</name>
+<imagepath>Images/BPCalm.jpg</imagepath>
+<mood>Calm</mood>
+</programme5>
+</programme>
+<programme id="6">
+<programme6>
+<name>Game of Thrones</name>
+<imagepath>Images/GoTAgitated.jpg</imagepath>
+<mood>Agitated</mood>
+</programme6>
+</programme>
+<programme id="7">
+<programme7>
+<name>The Secret Life of Puppies</name>
+<imagepath>Images/TSLoPTired.jpg</imagepath>
+<mood>Tired</mood>
+</programme7>
+</programme>
+<programme id="8">
+<programme8>
+<name>Up</name>
+<imagepath>Images/UPSad.jpg</imagepath>
+<mood>Sad</mood>
+</programme8>
+</programme>
+<programme id="9">
+<programme9>
+<name>Central Intelligence</name>
+<imagepath>Images/CIHappy.jpg</imagepath>
+<mood>Happy</mood>
+</programme9>
+</programme>
+<programme id="10">
+<programme9>
+<name>The Simpsons</name>
+<imagepath>Images/TSHappy.jpg</imagepath>
+<mood>Happy</mood>
+</programme9>
+</programme>
+<programme id="11">
+<programme9>
+<name>Moana</name>
+<imagepath>Images/MHappy.jpg</imagepath>
+<mood>Happy</mood>
+</programme9>
+</programme>
+<programme id="12">
+<programme9>
+<name>Kingsman: The Golden Circle</name>
+<imagepath>Images/KTGCHappy.jpg</imagepath>
+<mood>Happy</mood>
+</programme9>
+</programme>
+<programme id="13">
+<programme9>
+<name>Guardians of the Galaxy: Volume 2</name>
+<imagepath>Images/GotGV2Happy.jpg</imagepath>
+<mood>Happy</mood>
+</programme9>
+</programme>
+</programmedata>

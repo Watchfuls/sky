@@ -1,0 +1,14 @@
+CACHE MANIFEST
+
+CACHE:
+/Home.html
+css/style.css
+Logo.jpg
+scripts/java.js
+
+NETWORK:
+*
+
+
+FALLBACK:
+offline.html

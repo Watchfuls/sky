@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <title>SKY</title>
+
+    <!-- css import -->
+    <link href="style.css" type="text/css" rel="stylesheet" />
+
+    <!-- javascript import -->
+    <script src="java.js"></script>
+
+    <html manifest="cashe.appcache">
+
+    </html>
+
+  </head>
+
+  <body>
+    <script>
+
+
+    </script>
+    <div id="Main">
+      <div id="Header">
+        <div class="SiderbarLogo">
+          <img src="Logo.png" alt="Logo" id="Logo" width="100%">
+        </div>
+        <div id="TitleBar">
+          <p>Title Bar</p>
+        </div>
+        <div id="Navbar">
+          <p><a href=Home.html>Moodslider</a> | Upload Content</p>         </div>
+      </div>
+    </div>
+
+    <form action="Uploads/Upload.php" method="post" enctype="multipart/form-data">
+        Select XML file to upload:
+        <input type="file" name="fileToUpload" id="fileToUpload">
+        <input type="submit" value="Upload File" name="submit">
+    </form>
+
+  </body>
+
+</html>

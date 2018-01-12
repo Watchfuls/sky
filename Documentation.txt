@@ -1,0 +1,24 @@
+SKY UNATTENDED TEST DOCUMENTATION:
+
+I will give a brief overview of the less obvious tests.
+
+For the testing of the PHP upload, a server is necessary. To simulate it myself I used Xampp, if you wish to install this, just extract my "Sky" folder into \xampp\htdocs, and navigate in your web browser of choice to http://localhost/sky/ .
+
+The web browser I used for testing was chrome as it has the most advanced and useful developer features. I did do a small test on FFQuantum, but the sliders do not look to specification.
+I also left a few lines of CSS which were related to the borders shown in the specification diagram.
+
+The main page including the moodsliders is Home.html, and Upload.html is the facility for uploading the XML file.
+Once the file is uploaded it will be placed in the Uploads folder.
+
+I made a few additions to the example ml file for compatibility with my reading method, such as changing the form of the quote marks describing the format. So I recommend using the Data.xml file within the Sky directory for testing.
+
+There were also multiple ways I thought that analyzing multiple moods may work depending on the XML data provided. Rather than just a simple "two moods".
+An optimal way of configuring it would be to have a 4 value scoring system for each show, and the work out the closest match via an average of differences, between the show and the users current selection.
+
+If you have any other questions feel free to ask.
+
+One improvement I considered making but it wasn't in the specification was an "inverse mood" button. It seemed intuitive that if I was feeling down, I would want to watch something to cheer me up. I would only watch something scary if I was feeling brave. etc.
+
+Thanks for the opportunity.
+
+Gregory Hallam.
